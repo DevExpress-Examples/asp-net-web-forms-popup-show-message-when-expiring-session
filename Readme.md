@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[Default.aspx](./CS/WebApp/Default.aspx) (VB: [Default.aspx.vb](./VB/WebApp/Default.aspx.vb))**
+* **[Default.aspx](./CS/WebApp/Default.aspx) (VB: [Default.aspx](./VB/WebApp/Default.aspx))**
 * [Default.aspx.cs](./CS/WebApp/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApp/Default.aspx.vb))
 * [TimeoutControl.ascx](./CS/WebApp/TimeoutControl.ascx) (VB: [TimeoutControl.ascx](./VB/WebApp/TimeoutControl.ascx))
-* [TimeoutControl.ascx.cs](./CS/WebApp/TimeoutControl.ascx.cs) (VB: [TimeoutControl.ascx](./VB/WebApp/TimeoutControl.ascx))
+* [TimeoutControl.ascx.cs](./CS/WebApp/TimeoutControl.ascx.cs) (VB: [TimeoutControl.ascx.vb](./VB/WebApp/TimeoutControl.ascx.vb))
 * [TimeOutPage.aspx](./CS/WebApp/TimeOutPage.aspx) (VB: [TimeOutPage.aspx](./VB/WebApp/TimeOutPage.aspx))
 <!-- default file list end -->
 # How to control state when the Session is being expired and prolong it on demand
