@@ -4,13 +4,14 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Popup Control for Web Forms - How to Control State When the Session is Being Expired and Prolong it on Demand
+# Popup Control for ASP.NET Web Forms - How to Control State When the Session is Being Expired and Prolong it on Demand
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e3302/)**
 <!-- run online end -->
 
 
-This example illustrates how to create a timeout control for web sites (similar to what banks and other financial institutions have) that will display a modal popup dialog displaying the time remaining before a session is timed out and redirected to a page explaining what happened. 
+This example shows how to display a warning message before a user's session times out, and
+allow the user to continue the session or log them out automatically.
 
 ![Results](images/resulting-popup-dialog.png)
 
@@ -32,4 +33,9 @@ For more information, refer to the following blog posts:
 
 ## Documentation
 
-- [Popup Control](https://docs.devexpress.com/AspNet/3582/components/docking-and-popups/popup-control)
+- [Popup Control](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl)
+
+## More Examples
+
+- [Popup Control for ASP.NET Web Forms - How to show a pop-up window](https://github.com/DevExpress-Examples/web-forms-show-popup-window)
+- [Popup Control for ASP.NET Web Forms - How to add buttons to a pop-up window](https://github.com/DevExpress-Examples/asp-net-web-forms-popup-add-buttons-to-popup-window)
