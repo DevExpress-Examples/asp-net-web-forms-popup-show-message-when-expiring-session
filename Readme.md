@@ -33,7 +33,7 @@ For more information, refer to the following blog posts:
 
 ## Documentation
 
-- [Popup Control](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl)
+- [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl)
 
 ## More Examples
 
