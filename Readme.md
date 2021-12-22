@@ -10,7 +10,7 @@
 <!-- run online end -->
 
 
-This example shows how to display a warning message before a user's session times out, and
+This example shows how to display a warning message before a user's session times out, and how to 
 allow the user to continue the session or log them out automatically.
 
 ![Results](images/resulting-popup-dialog.png)
