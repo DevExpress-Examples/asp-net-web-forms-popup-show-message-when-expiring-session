@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Popup Control for ASP.NET Web Forms - How to Control State When the Session is Being Expired and Prolong it on Demand
+# Popup Control for ASP.NET Web Forms - How to Control State when the Session is Being Expired and Prolong it on Demand
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e3302/)**
 <!-- run online end -->
