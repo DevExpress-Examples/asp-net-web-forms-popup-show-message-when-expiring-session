@@ -20,7 +20,7 @@ namespace WebApp {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl TimeoutPopup;
+        protected global::DevExpress.Web.ASPxPopupControl TimeoutPopup;
         
         /// <summary>
         /// PopupControlContentControl1 control.
@@ -29,7 +29,7 @@ namespace WebApp {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.PopupControlContentControl PopupControlContentControl1;
+        protected global::DevExpress.Web.PopupControlContentControl PopupControlContentControl1;
         
         /// <summary>
         /// GlobalEvents control.
@@ -38,7 +38,7 @@ namespace WebApp {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGlobalEvents.ASPxGlobalEvents GlobalEvents;
+        protected global::DevExpress.Web.ASPxGlobalEvents GlobalEvents;
         
         /// <summary>
         /// KeepAliveHelper control.
@@ -47,6 +47,6 @@ namespace WebApp {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallback.ASPxCallback KeepAliveHelper;
+        protected global::DevExpress.Web.ASPxCallback KeepAliveHelper;
     }
 }

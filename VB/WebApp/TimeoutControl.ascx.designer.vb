@@ -18,7 +18,7 @@ Namespace WebApp
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected TimeoutPopup As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+        Protected TimeoutPopup As Global.DevExpress.Web.ASPxPopupControl
 
         ''' <summary>
         ''' PopupControlContentControl1 control.
@@ -27,7 +27,7 @@ Namespace WebApp
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected PopupControlContentControl1 As Global.DevExpress.Web.ASPxPopupControl.PopupControlContentControl
+        Protected PopupControlContentControl1 As Global.DevExpress.Web.PopupControlContentControl
 
         ''' <summary>
         ''' GlobalEvents control.
@@ -36,7 +36,7 @@ Namespace WebApp
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected GlobalEvents As Global.DevExpress.Web.ASPxGlobalEvents.ASPxGlobalEvents
+        Protected GlobalEvents As Global.DevExpress.Web.ASPxGlobalEvents
 
         ''' <summary>
         ''' KeepAliveHelper control.
@@ -45,6 +45,6 @@ Namespace WebApp
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected KeepAliveHelper As Global.DevExpress.Web.ASPxCallback.ASPxCallback
+        Protected KeepAliveHelper As Global.DevExpress.Web.ASPxCallback
     End Class
 End Namespace
