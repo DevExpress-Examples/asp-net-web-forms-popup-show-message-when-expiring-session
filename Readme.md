@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Popup Control for ASP.NET Web Forms - How to control state when the Session is being expired and prolong it on demand
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128566337/)**
-<!-- run online end -->
 
 
 This example shows how to display a warning message before a user's session times out, and how to either allow the user to continue the session or log them out automatically.
