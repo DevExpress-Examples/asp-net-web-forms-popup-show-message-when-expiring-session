@@ -37,7 +37,7 @@ For more information, refer to the following blog posts:
 - [Popup Control for ASP.NET Web Forms - How to show a pop-up window](https://github.com/DevExpress-Examples/web-forms-show-popup-window)
 - [Popup Control for ASP.NET Web Forms - How to add buttons to a pop-up window](https://github.com/DevExpress-Examples/asp-net-web-forms-popup-add-buttons-to-popup-window)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-show-message-when-expiring-session&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-show-message-when-expiring-session&~~~was_helpful=no)
 
